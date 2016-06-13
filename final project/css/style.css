@@ -1,7 +1,17 @@
 body {
      background-color: #00FFFf    ;
      text-align: center;
+     font-size: 32px;
 
-h1 {
+h1{
      color: #F8F8FF;
+}
+
+p{
+	font-size: 23px;
+
+}
+
+div {
+	font color: black;
 }
